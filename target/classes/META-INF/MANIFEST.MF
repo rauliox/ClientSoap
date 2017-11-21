@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cliente-ws-soap
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Home-01
+Implementation-Vendor-Id: net.tecgurus
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/cliente-ws-s
+ oap/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
